@@ -40,4 +40,4 @@ Supported on Raydium, Jupiter and Pumpfun
 ```
 
 # 👤 Author
-### Telegram: [sydnie34b](https://t.me/sydnie34b)   
+### Telegram: [DeFiApeSniper](https://t.me/DeFiApeSniper)   
